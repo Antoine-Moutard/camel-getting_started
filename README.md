@@ -1,1 +1,0 @@
-# camel-getting_started
